@@ -9,9 +9,17 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginStart="167dp"
+        android:layout_marginLeft="167dp"
+        android:layout_marginTop="321dp"
+        android:layout_marginEnd="193dp"
+        android:layout_marginRight="193dp"
+        android:layout_marginBottom="391dp"
         android:text="Choklad"
-        tools:layout_editor_absoluteX="167dp"
-        tools:layout_editor_absoluteY="321dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 
 
